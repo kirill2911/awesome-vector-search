@@ -11,13 +11,13 @@ All GitHub links for databases & libraries; lists ordered by **fork count (desce
 | Name (GitHub) | Stars | Forks | Last Commit | Status | Description |
 |---------------|-------|-------|-------------|--------|-------------|
 | **[Milvus](https://github.com/milvus-io/milvus)** | ~43k | ~4k | 2026-01 | Active | Distributed, cloud-native vector database |
-| **[Qdrant](https://github.com/qdrant/qdrant)** | ~29k | ~2k | 2026-02 | Active | Rust-powered vector DB with hybrid filtering |
-| **[ChromaDB](https://github.com/chroma-core/chroma)** | ~26k | ~2k | 2025-12 | Active | Embedding-first vector store for LLM/RAG workloads |
+| **[Qdrant](https://github.com/qdrant/qdrant)** | ~29k | ~2k | 2025-10 | Active | Rust-powered vector DB with hybrid filtering |
+| **[ChromaDB](https://github.com/chroma-core/chroma)** | ~26k | ~2k | 2026-01 | Active | Embedding-first vector store for LLM/RAG workloads |
 | **[Weaviate](https://github.com/weaviate/weaviate)** | ~16k | ~1k | 2026-01 | Active | Schema-aware vector DB with GraphQL |
 | **[LanceDB](https://github.com/lancedb/lancedb)** | ~9k | ~730 | 2026-01 | Active | Data-lake-native vector database built on Apache Arrow |
-| **[Vespa](https://github.com/vespa-engine/vespa)** | ~7k | ~700 | 2025-12 | Active | Large-scale search engine with native vector support |
-| **[Endee.io](https://github.com/EndeeLabs/endee)** | ~1k | ~150 | 2025-10 | Active | cost-efficient, high-throughput vector search - scaling to 100M+ vectors per node |
-| **[Vald](https://github.com/vdaas/vald)** | ~2k | ~90 | 2025-10 | Active | Kubernetes-native distributed vector search |
+| **[Vespa](https://github.com/vespa-engine/vespa)** | ~7k | ~700 | 2026-02 | Active | Large-scale search engine with native vector support |
+| **[Endee.io](https://github.com/endee-io/endee)** | ~1k | ~150 | 2026-02 | Active | cost-efficient, high-throughput vector search - scaling to 100M+ vectors per node |
+| **[Vald](https://github.com/vdaas/vald)** | ~2k | ~90 | 2026-01 | Active | Kubernetes-native distributed vector search |
 
 ---
 
